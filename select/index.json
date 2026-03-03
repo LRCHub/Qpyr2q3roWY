@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "YENTOWN - 不幸中の幸い feat. kZm, PETZ, JNKMN, Awich, MonyHorse & U-Lee (Prod. Chaki Zulu)（feat. Awich、MonyHorse、PETZ、kZm）",
+  "base_artist": "YENTOWN",
+  "createdAt": "2026-03-03T09:15:05.938265Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不幸中の幸い (feat. kZm, PETZ, JNKMN, Awich, MonyHorse & U-Lee)",
+      "artist": "YENTOWN",
+      "has_synced": false,
+      "path": "select/pl_01_不幸中の幸い_(feat._kZm,_PETZ,_JNKMN,_Awich,_MonyHorse_&_U-Lee)_YENTOWN.txt"
+    }
+  ]
+}
